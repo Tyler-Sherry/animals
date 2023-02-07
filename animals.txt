@@ -6,3 +6,5 @@ Hissy
 Blue
 Scout
 Rocket
+Monty
+Mocha
